@@ -6,7 +6,7 @@
   description: |
     - MVP 제작, 비즈니스 모델 검증 교육을 수료하고 시제품 제작 완료
 
-- layout left
+- layout: left
   name: SW테스트 전문가 양성교육
   dates: 2017.07.17 - 2017.07.20
   quote: >
