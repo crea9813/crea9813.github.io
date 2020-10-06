@@ -1,9 +1,29 @@
 - layout: left
   name: 삼행시
-  link: github.com/crea9813/AcrosticPoem_iOS
+  link: github.com/crea9813/
+  job_title: iOS Developer
+  dates: 2019.11.13 - 진행 중 (스토어 출시)
   github: crea9813/AcrosticPoem_iOS
-  dates: 2019.11.13 - Present
   quote: >
     바쁜 일상 속에서 웃음을 찾으세요! '삼행시'로 짧고 굵게 즐겨보세요.
   description: | # this will include new lines to allow paragraphs
-    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+    - 삼행시 서비스 iOS 버전을 개발
+    - 매일 업데이트 되는 주제, 작성된 글, 좋아요 등 HTTP 통신을 위한 Alamofire
+    - 비동기 처리를 위한 RxSwift 적용
+    - Snapkit 과 Custom UI Code로 AutoLayout 적용
+    - 작성일 기준(20.10.2) 1100회 다운로드 달성
+    
+- layout: left
+  name: 묻다 - MUTDA
+  link: github.com/crea9813/
+  job_title: iOS Developer
+  dates: 2020.08.16 - 진행 중 (스토어 출시)
+  github: crea9813/AskToMe
+  quote: >
+    몰랐던 나에 대해 생각하고 발견해봐요.
+  description: |
+    - 기획/디자인/개발 모두 1인 개발로 진행
+    - 모든 UI를 Storyboard 와 NIBs 를 사용하지 않은 코드로 제작
+    - AutoLayout을 위해 Snapkit 적용
+    - MVVM 디자인 패턴을 적용하여 코드 재사용 최적화
+    - 내부 데이터 저장소를 이용하기 위해 Realm 적용
