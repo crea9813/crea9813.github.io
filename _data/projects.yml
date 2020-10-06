@@ -27,3 +27,17 @@
     - AutoLayout을 위해 Snapkit 적용
     - MVVM 디자인 패턴을 적용하여 코드 재사용 최적화
     - 내부 데이터 저장소를 이용하기 위해 Realm 적용
+    
+- layout: left
+  name: 아스가르드의 고양이=
+  job_title: VR Content Developer
+  dates: 2020.06.10 - 진행 중
+  github: crea9813/
+  quote: >
+    아스가르드를 배경으로한 가족용 파티 VR 게임
+  description: |
+    - 유니티를 통해 총 3가지의 스테이지로 제작
+    - PC 한대로 VR과 최대 4명의 플레이어들이 즐길 수 있는 파티 게임
+    - 인디스타즈 5기 사업 선정 (지원금 800만 원)
+    
+
