@@ -33,16 +33,14 @@ projects_title: 프로젝트
 experience_title: 프로젝트
 
 # Education Section
-# educaton_title: Education
+educaton_title: 학력
 
 # More Section
-# more_title: A Little More About Me
+more_title: Skill
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
-   - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+  - iOS 앱 개발 : Swift, Objective-C, Alamofire, Realm, RxSwift, Snapkit
+  - Android 앱 개발 : Java, Kotlin, Retrofit2
+  - Database : SQLlite
 
 # Footer
 footer_show_references: true
