@@ -9,7 +9,7 @@
   description: | # this will include new lines to allow paragraphs
     - 삼행시 서비스 iOS 버전을 개발
     - 매일 업데이트 되는 주제, 작성된 글, 좋아요 등 HTTP 통신을 위한 Alamofire
-    - 비동기 처리를 위한 RxSwift 적용
+    - <mark>비동기 처리</mark>를 위한 RxSwift 적용
     - Snapkit 과 Custom UI Code로 AutoLayout 적용
     - 작성일 기준(20.10.2) 1100회 다운로드 달성
     
@@ -22,14 +22,14 @@
   quote: >
     몰랐던 나에 대해 생각하고 발견해봐요.
   description: |
-    - 기획/디자인/개발 모두 1인 개발로 진행
-    - 모든 UI를 Storyboard 와 NIBs 를 사용하지 않은 코드로 제작
+    - 기획/디자인/개발 1인 개발로 진행
+    - 모든 UI를 Storyboard 와 NIBs 를 사용하지 않은 <mark>코드</mark>로 제작
     - AutoLayout을 위해 Snapkit 적용
-    - MVVM 디자인 패턴을 적용하여 코드 재사용 최적화
+    - <mark>MVVM 디자인 패턴</mark>을 실제 서비스에 적용하여 코드 재사용 최적화
     - 내부 데이터 저장소를 이용하기 위해 Realm 적용
     
 - layout: left
-  name: 아스가르드의 고양이=
+  name: 아스가르드의 고양이
   job_title: VR Content Developer
   dates: 2020.06.10 - 진행 중
   github: crea9813/
