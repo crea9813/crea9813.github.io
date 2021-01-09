@@ -1,4 +1,24 @@
 - layout: left
+  company: 브릿지 벤처스
+  link: bridge.co
+  job_title: iOS App Developer
+  dates: 2020.10.20 - 2021.1.10
+  quote: >
+    iOS 앱 서비스 개발
+  description: | # this will include new lines to allow paragraphs
+    - 라운지 iOS 어플리케이션 개발
+    - RxSwift 와 함께 MVVM 디자인패턴 적용
+    - Moya 로 네트워크 서비스 제작
+    - Firebase SDK를 통해 Cloud Messaging, Crashlytics, Analytics 연동
+    - Facebook SDK 연동
+    - Autolayout 과 Custom UI 로 UI 제작
+    
+    - 스파커 iOS 어플리케이션 유지보수
+    - Firebase, Crashlytics 연동
+    - 네트워크 서비스 개선
+    - 음성인식 클라이언트 알고리즘 개선
+    - UI 수정
+- layout: left
   company: 미네스트로네
   link: minestrone.com
   job_title: Mobile App Developer

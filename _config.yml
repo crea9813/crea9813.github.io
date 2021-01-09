@@ -32,13 +32,13 @@ about_content: | # this will include new lines to allow paragraphs
 projects_title: 프로젝트
 
 # Experience Section
-experience_title: 경험
+experience_title: 경력
 
 # Education Section
 educaton_title: 교육
 
 # More Section
-more_title: Skill
+more_title: 기술 스택
 more_content: | # this will include new lines to allow paragraphs
   - iOS 앱 개발 : Swift, Objective-C, Alamofire, Realm, RxSwift, Snapkit
   - Android 앱 개발 : Java, Kotlin, Retrofit2
